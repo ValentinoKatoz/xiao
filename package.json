@@ -21,12 +21,12 @@
 		"discord-js",
 		"discord-js-commando"
 	],
-	"author": "dragonfire535 <danielbodendahl@gmail.com>",
+	"author": "Oxy <valentinofrancocatozzi3@gmail.com>",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/dragonfire535/xiao/issues"
+		"url": "https://github.com/ValentinoKatoz/xiao/"
 	},
-	"homepage": "https://github.com/dragonfire535/xiao#readme",
+	"homepage": "https://github.com/ValentinoKatoz/xiao#readme",
 	"engines": {
 		"node": ">=15"
 	},
